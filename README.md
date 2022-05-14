@@ -1,5 +1,5 @@
-# Hi 👋 My name is Leandro Barbosa
-## A Web developer
+                                                        # Hi 👋 My name is Leandro Barbosa
+                                                                ## A Web developer
 
 I'm Software Engineering student at Unicesumar. Currently I work with development and maintenance of portals and internal systems (intranet) using current tools such: HTML5, CSS3, Bootstrap, JS, PHP and Laravel. I like to learn new technologies and share knowledge. I have been studying everyday to become better and better and write quality code
 * 🌍  I'm based in São Paulo
