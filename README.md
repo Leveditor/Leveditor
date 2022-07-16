@@ -6,7 +6,7 @@ I'm Software Engineering student at Unicesumar. Currently I work with developmen
 * 🖥️  See my portfolio at [https://leveditor.github.io/](http://leveditor.github.io/)
 * ✉️  You can contact me at [leveditorfc@gmail.com](mailto:leveditorfc@gmail.com)
 * 🚀  I'm currently working on [Hello Soluções](http://.)
-* 🧠  I'm learning AWS and SASS
+* 🧠  I'm learning SASS
 
 ## Skills
 
