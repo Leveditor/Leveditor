@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Barbosa</h1>
-<h3 align="center">Studying Software Engineering and specializing in Front-end development, I have experience in large projects, working as a team to achieve the proposed objectives. participated actively in the development of interactive and dynamic applications, using the Vue.js framework. I'm always up to date with the latest industry trends and technologies. I find it easy to work team and adapt to different development environments.</h3>
+<h3 align="justify">Studying Software Engineering and specializing in Front-end development, I have experience in large projects, working as a team to achieve the proposed objectives. participated actively in the development of interactive and dynamic applications, using the Vue.js framework. I'm always up to date with the latest industry trends and technologies. I find it easy to work team and adapt to different development environments.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-barbosa-589b08150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-barbosa-589b08150/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leandro-barbosa-589b08150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-barbosa-589b08150" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
